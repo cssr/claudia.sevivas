@@ -3,10 +3,10 @@ $(document).ready(function() {
   var $grid = $('.grid').masonry({
     gutter: 10,
     horizontalOrder: true,
-    itemSelector: '.grid-item',
+    itemSelector: '.-item',
   });
   // Layout Masonry after each image loads
-  $grid.imagesLoaded().progress( function() {
-    $grid.masonry('layout');
+  $.imagesLoaded().progress( function() {
+    $.masonry('layout');
   });
 });

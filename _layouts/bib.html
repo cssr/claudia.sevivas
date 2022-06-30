@@ -95,6 +95,9 @@
           {%- if entry.abstract %}
             <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
           {%- endif %}
+          {%- if entry.news %}
+          <a class="newsart btn btn-sm z-depth-0" role="button">News</a>
+        {%- endif %}
           {%- if entry.arxiv %}
             <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
           {%- endif %}
@@ -149,6 +152,18 @@
             <p>{{ entry.abstract }}</p>
           </div>
           {%- endif -%}
+
+          {% if entry.news -%}
+          <!-- Hidden abstract block -->
+          <div class="newsart hidden">
+            {% assign objArr = entry.news | split: ',' %} 
+            {% for obj in objArr %}
+                {% assign key = obj | split: ':' | first %}
+                {% assign value = obj | split: ':' | last %}
+                <p><a href="{{value}}">{{key}}</a></p>
+            {% endfor %}
+          </div>
+        {%- endif -%}
 
           {% if entry.bibtex_show -%}
           <!-- Hidden bibtex block -->

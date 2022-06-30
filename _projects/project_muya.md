@@ -1,10 +1,12 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
+title: MUYA - The Multimedia Yasna 
+description: examines the performance and written transmission of the core ritual of the Zoroastrian tradition, the Yasna, whose oldest parts date from the second millennium BCE. In this project I was responsible for developing a method whose aim is to detect and track around 50 objects throughout the the Yasna film. This involved developing an
+annotation protocol that included how to annotate visible, occluded, and partially visible objects, as well as class correctness and completeness. For each new annotation dataset a YOLO model was trained and a new result of the film with bounding box and confidance levels was generated. Approaches based on Non-Max Suppression and Weighted Box Fusion were added to the detection algorithm in order to solve problems related to different class bounding box overlap.
+img: assets/img/muya.png
+redirect: https://muya.soas.ac.uk/tools/
 importance: 4
-category: fun
+category: work
 ---
 
 Every project has a beautiful feature showcase page.

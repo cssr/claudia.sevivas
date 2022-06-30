@@ -126,6 +126,7 @@ blockquote {
       text-decoration: none;
     }
   }
+  text-align: justify;
 }
 
 
@@ -517,6 +518,13 @@ footer.sticky-bottom {
       div.abstract.hidden.open {
         border-color: var(--global-text-color);
       }
+
+      div.newsart.hidden {
+        border: dashed 1px var(--global-bg-color);
+      }
+      div.newsart.hidden.open {
+        border-color: var(--global-text-color);
+      }
     }
   }
 }
@@ -582,3 +590,5 @@ html.transition *:after {
     }
   }
 }
+
+

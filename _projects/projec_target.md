@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: TARGET - Transformative, Adaptive, Responsive and enGaging EnvironmenT
+description: Was a project with the goal of developing a platform for workplace learning, with a serious game in its core, where understanding is transformed through knowledge gateways, supporting rapid competence development. I was responsible for managing all the technical development of INESC workpackage incluing an IA platform, Serious Game platform and the integration with the work developed by the other partners of the project.
+img: assets/img/target.png
+redirect: https://cordis.europa.eu/project/id/231717
 importance: 1
 category: work
 ---

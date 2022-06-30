@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: GaLA - Games and Learning Alliance
+description: gathers the cutting-the-edge European Research & Development organizations on Serious Games, involving 31 partners from 14 countries. Partnership involves universities, research centers, and developer and education industries. In this project I was responsible to manage the work developed by INESC students and the partners of the project.
+img: assets/img/gala.jpg
+redirect: https://cordis.europa.eu/project/id/258169
 importance: 2
 category: work
 ---

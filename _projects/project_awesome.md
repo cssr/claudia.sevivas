@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
+title: AWESOME - Awareness While Experiencing and Surfing On Movies through Emotions
+description: was to investigate the emotional dimension of movies, to provide support for the classification, access, navigation and visualization of movie collections, not only by genre, rating, etc. but based on the emotions expressed in their content and felt by the viewers, while and after watching movies. where I was mainly involved in tasks related to the automatic detection of emotions in images through deep learning models and also in the development of interactive systems that allow emotional annotation of movies, self-reported and using bio sensors. 
+img: assets/img/awesome.jpg
+redirect: http://awesome.di.fc.ul.pt/
+importance: 4
 category: work
 ---
 

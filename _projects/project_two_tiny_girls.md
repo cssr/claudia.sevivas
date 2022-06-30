@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
+title: Two Tiny Girls
+description: was a project that developed works in the intersection between digital and analog art and in the synergy of art and technology. Several projects were developed including VJing, live painting and video art. 
+img: assets/img/titleAndLogo.png
+importance: 1
 category: fun
+redirect: http://cargocollective.com/twotinygirls
 ---
 
 Every project has a beautiful feature showcase page.

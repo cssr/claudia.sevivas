@@ -1,17 +1,15 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
+title: Existo
+description:  Existo is a project that aims to provide an analysis of the representation and visibility of Portuguese artists in the Portuguese press, namely in the Ípsilon supplement of the Público newspaper. For that Natural Language Processing... Besides this analysis, it also provides the most mentioned artists, the news where they were mentioned, the distribution by geographical area and the aggregation of the lexicon analysis (i.e., most repeated words) of the news text.
+img: assets/img/existo.png
+importance: 5
 category: fun
+redirect: http://www.existo.pt/
+
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
     ---
     layout: page
