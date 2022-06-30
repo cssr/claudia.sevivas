@@ -1,7 +1,7 @@
 ---
 layout: page
 title: projects
-permalink: /claudia.sevivas/projects/
+permalink: /projects/
 description: 
 nav: true
 nav_order: 1
