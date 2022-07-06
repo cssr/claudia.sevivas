@@ -1,6 +1,6 @@
 <!-- _includes/projects.html -->
 <div class="row" style="margin-top: 5%;">
-  <div class="col-3">
+  <div class="col-md-3 col-sm-6 col-xs-12">
     {% if project.redirect -%}
       <a href="{{ project.redirect }}">
     {%- else -%}
@@ -14,7 +14,7 @@
     </a>
 
   </div>
-  <div class="col-9">
+  <div class="col-sm-9 col-xs-12">
     <h5 class="card-title text">{{ project.title }}</h5>
     <p class="card-text">{{ project.description }}</p>
   </div>
