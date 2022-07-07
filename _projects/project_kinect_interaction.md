@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Interactive Wall
-description: were two interactive instalations presented at Sirigaita association and Lux Frágil. 
+description: Interactive Wall were two interactive instalations presented at Sirigaita association and Lux Frágil. 
 img: assets/img/interavive_wall.jpg
 importance: 2
 category: fun

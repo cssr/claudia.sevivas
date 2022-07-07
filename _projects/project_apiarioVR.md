@@ -1,18 +1,14 @@
 ---
 layout: page
 title: Apiário VR
-description: was a Virtual Reality project consisted in developing a virtual tour through an apiary. These tour included 4 different scenarios and in each the user would learning important facts about bees and their natural habitat.
+description: Apiário VR was a Virtual Reality project consisted in developing a virtual tour through an apiary. These tour included 4 different scenarios and in each the user would learning important facts about bees and their natural habitat.
 img: assets/img/apiario_vr.png
 importance: 4
 category: fun
 
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+ApiarioVR was a project developed by Oskar&Gapar(https://oskargaspar.com/) focused on creating an environment where users can experience and learn about bees, their environment and their role in pollination . It consisted in four different virtual reality scenarios, namely a forest, a farm, an orchard, and a city. In each scenario a user is invited to answer to questionnaires and interact with different virtual objects. This project was develop in Unity3D for the facebook oculus quest 2. In this project I was reponsible for optimizing 3D object rendering and implementing the navigation and interaction.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -23,7 +19,7 @@ To give your project a background in the portfolio page, just add the img tag to
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    A caption of the forest scenario on the left and the farm on the right.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -34,12 +30,10 @@ To give your project a background in the portfolio page, just add the img tag to
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    A caption of the orchard scenario on the left and the city on the right.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
+Teaser showing a walkthough the ApiarioVR:
 
 
 <iframe class="center" width="560" height="315" src="https://www.youtube.com/embed/uxZXt7gGSfE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
