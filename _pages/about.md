@@ -18,6 +18,12 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-I'm currently a researcher associated at Faculty of Sciences, University of Lisbon, in the research group LASIGE working in the project AWESOME - Awareness While Experiencing and Surfing On Movies through Emotions.  Her research interests include Serious Games, Human-Computer Interaction, and Machine Learning.
+I'm currently a researcher associated at Faculty of Sciences, University of Lisbon, in the research group LASIGE working in the project AWESOME - Awareness While Experiencing and Surfing On Movies through Emotions.  
+
+<h4> RESEARCH INTERESTS</h4> 
+Serious Games, Gamification, Application in Healthcare
+
+Machine Learning, Artificial Intelligence, Application in Emotion Recognition in Images and
+Interpretability and Explainability of Convolutional Neural Networks
  
 
