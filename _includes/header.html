@@ -85,9 +85,9 @@
               {%- if site.enable_darkmode %}
 
               <!-- CV -->
-              {% assign cv_pdf = claudiasevivas.pdf %}
+              {%- assign cv_pdf = claudiasevivas.pdf -%}
               <li class="nav-item">
-                <a class="nav-link" href="/assets/pdf/claudiasevivas.pdf"> cv </a>
+                <a class="nav-link" href="{{ cv_pdf | prepend: '/assets/pdf/claudiasevivas.pdf' | relative_url }}"> cv </a>
               </li>              
 
               <!-- Toogle theme mode -->
