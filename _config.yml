@@ -6,7 +6,7 @@ title: Claudia Sevivas # the website title (if blank, full name will be used ins
 first_name: Claudia
 middle_name: 
 last_name: Sevivas
-email: claudia.sevivas@gmail.com
+email: claudia.sevivas@universidadeeuropeia.pt
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: > 
