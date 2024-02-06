@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-I'm currently a researcher associated at Faculty of Sciences, University of Lisbon, in the research group LASIGE working in the project AWESOME - Awareness While Experiencing and Surfing On Movies through Emotions.  
+I'm currently the coordinator of the bachelor degree of Game Development at IADE - Creative University.
 
 <h4> RESEARCH INTERESTS</h4> 
 Serious Games, Gamification, Application in Healthcare
