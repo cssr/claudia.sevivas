@@ -16,9 +16,6 @@ news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-#Serious Games and Virtual Worlds, Multimodal Interaction and Visualization and Machine Learning and Image Processing
-#VJing, Live Painting, and Video Art
-#Interactive Installations
 
 I'm currently the coordinator of the bachelor degree of Game Development at IADE - Creative University.
 
